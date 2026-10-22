@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AI Affiliate Auto-Pilot</string>
+    <string name="title_activity_main">AI Affiliate Auto-Pilot</string>
+    <string name="package_name">com.aiaffiliate.autopilot</string>
+    <string name="custom_url_scheme">com.aiaffiliate.autopilot</string>
+</resources>

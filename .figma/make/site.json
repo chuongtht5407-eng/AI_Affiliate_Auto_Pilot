@@ -1,0 +1,10 @@
+{
+  "description": "Analyze e-commerce links and generate AI-powered Vietnamese marketing scripts with voice previews, token management, and subscription demos for affiliates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
