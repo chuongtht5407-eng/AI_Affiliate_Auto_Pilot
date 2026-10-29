@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626094232599",
+    "project_id": "ai-affiliate-145a3",
+    "storage_bucket": "ai-affiliate-145a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626094232599:android:920097ecae80b6fc9db852",
+        "android_client_info": {
+          "package_name": "com.aiaffiliate.autopilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9bhsh2hGjNNUxwH7N1hT5MeZpIKxqHiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
